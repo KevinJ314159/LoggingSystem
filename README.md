@@ -1,4 +1,9 @@
-# LoggingSystem
+# SerDes LoggingSystem
+
+项目说明：此项目为鄙人本科毕设，项目使用FPGA、DSP、BOSA(Bi-Directional Optical Sub-Assembly)组件实现了一套能够达到上行10Mbps速率（井下到地面回传数据），下行500Kbps（地面到井下下发指令）的全双工通信系统。
+Introdction: This project was my undergraduate thesis. It implemented a full-duplex communication system using FPGA, DSP, and BOSA (Bi-Directional Optical Sub-Assembly) components, achieving an uplink data rate of 10 Mbps (from downhole to the surface) and a downlink rate of 500 Kbps (from the surface to downhole).
+
+包含内容：此项目包含通信系统组件中的FPGA部分Verilog代码，不包含DSP部分代码。内容分为DownholeBusControlBoard 和 Surface 两个文件夹，前者为井下部分，后者为地面部分。
 
 1）All source files in this project are stored using GBK encoding.
    本工程中的所有源文件均使用 GBK 编码存储。
