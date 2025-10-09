@@ -17,7 +17,8 @@ It achieved an **uplink data rate of 10 Mbps (from downhole to surface)** and a 
 
 This repository contains **only the FPGA-side Verilog source code** (the DSP portion is not included).  
 The project is divided into two main directories:
-
-```📁 SerDes_LoggingSystem/
+```
+📁 SerDes_LoggingSystem/
 ├── 📂 DownholeBusControlBoard/   # 井下部分 / Downhole module
-└── 📂 Surface/                   # 地面部分 / Surface module```
+└── 📂 Surface/                   # 地面部分 / Surface module
+```
