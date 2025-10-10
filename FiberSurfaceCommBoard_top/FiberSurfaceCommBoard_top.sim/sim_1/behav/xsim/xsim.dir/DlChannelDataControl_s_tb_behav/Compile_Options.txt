@@ -1,0 +1,1 @@
+-wto "8d64c9cd1d504b509d202f0e79bb4b5b" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "DlChannelDataControl_s_tb_behav" "xil_defaultlib.DlChannelDataControl_s_tb" "xil_defaultlib.glbl" -log "elaborate.log" 

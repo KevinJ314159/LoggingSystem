@@ -1,0 +1,7 @@
+Running: xsim.dir/McBSPDriver_16Bit_s_tb_behav/xsimk.exe -simmode gui -wdb McBSPDriver_16Bit_s_tb_behav.wdb -simrunnum 0 -socket 2688
+Design successfully loaded
+Design Loading Memory Usage: 7456 KB (Peak: 7456 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8780 KB (Peak: 8780 KB)
+Simulation CPU Usage: 0 ms
