@@ -8,7 +8,7 @@
 This project was my **undergraduate thesis**, which implemented a **full-duplex communication system** using **FPGA, DSP, and BOSA (Bi-Directional Optical Sub-Assembly)** modules.  
 It achieved an **uplink data rate of 10 Mbps (from downhole to surface)** and a **downlink rate of 500 Kbps (from surface to downhole)**.
 
-![图片说明文字](https://github.com/KevinJ314159/LoggingSystem/blob/master/image/%E5%9B%BE%E7%89%872.jpg)
+[测井通信系统结构图 System Strcture](https://github.com/KevinJ314159/LoggingSystem/blob/master/image/%E5%9B%BE%E7%89%872.jpg)
 ---
 
 ## 文件结构 / Project Structure
