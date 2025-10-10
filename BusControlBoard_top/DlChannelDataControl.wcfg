@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Vivado project/Desine/FiberSurfaceCommBoard_top/FiberSurfaceCommBoard_top.sim/sim_1/behav/xsim/UlChannelDataControl_s_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="UlChannelDataControl_s_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="15915595609757fs"></ZoomEndTime>
+      <Cursor1Time time="3645384959000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="223"></NameColumnWidth>
+      <ValueColumnWidth column_width="89"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wave_markers>
+      <marker time="20054001000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/Clk10MHz" type="logic">
+      <obj_property name="ElementShortName">Clk10MHz</obj_property>
+      <obj_property name="ObjectShortName">Clk10MHz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/nRst" type="logic">
+      <obj_property name="ElementShortName">nRst</obj_property>
+      <obj_property name="ObjectShortName">nRst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/validDataEn" type="logic">
+      <obj_property name="ElementShortName">validDataEn</obj_property>
+      <obj_property name="ObjectShortName">validDataEn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/DlDataRevEnable" type="logic">
+      <obj_property name="ElementShortName">DlDataRevEnable</obj_property>
+      <obj_property name="ObjectShortName">DlDataRevEnable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/validData" type="array">
+      <obj_property name="ElementShortName">validData[7:0]</obj_property>
+      <obj_property name="ObjectShortName">validData[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/outData" type="array">
+      <obj_property name="ElementShortName">outData[9:0]</obj_property>
+      <obj_property name="ObjectShortName">outData[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/outDataen" type="logic">
+      <obj_property name="ElementShortName">outDataen</obj_property>
+      <obj_property name="ObjectShortName">outDataen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/out" type="logic">
+      <obj_property name="ElementShortName">out</obj_property>
+      <obj_property name="ObjectShortName">out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_s_tb/FSX" type="logic">
+      <obj_property name="ElementShortName">FSX</obj_property>
+      <obj_property name="ObjectShortName">FSX</obj_property>
+   </wvobject>
+</wave_config>

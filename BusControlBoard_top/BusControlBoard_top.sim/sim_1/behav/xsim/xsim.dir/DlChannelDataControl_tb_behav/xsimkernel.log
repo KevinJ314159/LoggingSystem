@@ -1,0 +1,7 @@
+Running: xsim.dir/DlChannelDataControl_tb_behav/xsimk.exe -simmode gui -wdb DlChannelDataControl_tb_behav.wdb -simrunnum 0 -socket 12809
+Design successfully loaded
+Design Loading Memory Usage: 7736 KB (Peak: 7736 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 13956 KB (Peak: 13956 KB)
+Simulation CPU Usage: 171 ms

@@ -1,0 +1,1 @@
+-wto "413f1ddcb9a549a49fcb01e9590d3903" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_McBSPDriver_16bTo8b_behav" "xil_defaultlib.tb_McBSPDriver_16bTo8b" "xil_defaultlib.glbl" -log "elaborate.log" 

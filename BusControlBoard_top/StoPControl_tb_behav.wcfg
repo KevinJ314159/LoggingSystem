@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="UlChannelDataControl_final_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="UlChannelDataControl_final_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="762774620802fs"></ZoomEndTime>
+      <Cursor1Time time="355342606000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="223"></NameColumnWidth>
+      <ValueColumnWidth column_width="94"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wave_markers>
+      <marker time="20054001000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/interfaceClk_tb" type="logic">
+      <obj_property name="ElementShortName">interfaceClk_tb</obj_property>
+      <obj_property name="ObjectShortName">interfaceClk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/outClk_tb" type="logic">
+      <obj_property name="ElementShortName">outClk_tb</obj_property>
+      <obj_property name="ObjectShortName">outClk_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/nRst_tb" type="logic">
+      <obj_property name="ElementShortName">nRst_tb</obj_property>
+      <obj_property name="ObjectShortName">nRst_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/McBSPFSR_tb" type="logic">
+      <obj_property name="ElementShortName">McBSPFSR_tb</obj_property>
+      <obj_property name="ObjectShortName">McBSPFSR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/McBSPDR_tb" type="logic">
+      <obj_property name="ElementShortName">McBSPDR_tb</obj_property>
+      <obj_property name="ObjectShortName">McBSPDR_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/outData_tb" type="array">
+      <obj_property name="ElementShortName">outData_tb[9:0]</obj_property>
+      <obj_property name="ObjectShortName">outData_tb[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/outDataEn_tb" type="logic">
+      <obj_property name="ElementShortName">outDataEn_tb</obj_property>
+      <obj_property name="ObjectShortName">outDataEn_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/wrAFrameDataOkFlag_tb" type="logic">
+      <obj_property name="ElementShortName">wrAFrameDataOkFlag_tb</obj_property>
+      <obj_property name="ObjectShortName">wrAFrameDataOkFlag_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/wrEncContinue_tb" type="logic">
+      <obj_property name="ElementShortName">wrEncContinue_tb</obj_property>
+      <obj_property name="ObjectShortName">wrEncContinue_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/uut/UlRAMWrControl_instance/cstate" type="array">
+      <obj_property name="ElementShortName">cstate[2:0]</obj_property>
+      <obj_property name="ObjectShortName">cstate[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/uut/UlRAMWrControl_instance/nstate" type="array">
+      <obj_property name="ElementShortName">nstate[2:0]</obj_property>
+      <obj_property name="ObjectShortName">nstate[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/uut/UlRAMWrControl_instance/UlRAM_wr_state" type="array">
+      <obj_property name="ElementShortName">UlRAM_wr_state[1:0]</obj_property>
+      <obj_property name="ObjectShortName">UlRAM_wr_state[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/uut/UlRAMWrControl_instance/UlRAM_rd_state" type="array">
+      <obj_property name="ElementShortName">UlRAM_rd_state[1:0]</obj_property>
+      <obj_property name="ObjectShortName">UlRAM_rd_state[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/uut/UlRAMWrControl_instance/wrUlRAMAddr" type="array">
+      <obj_property name="ElementShortName">wrUlRAMAddr[9:0]</obj_property>
+      <obj_property name="ObjectShortName">wrUlRAMAddr[9:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/UlChannelDataControl_final_tb/uut/UlRAMRdControl_instance/rdRAMAddr" type="array">
+      <obj_property name="ElementShortName">rdRAMAddr[9:0]</obj_property>
+      <obj_property name="ObjectShortName">rdRAMAddr[9:0]</obj_property>
+   </wvobject>
+</wave_config>

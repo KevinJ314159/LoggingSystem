@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../BusControlBoard_top.srcs/sources_1/new/edge_detect.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/sync_detect.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/StoPControl.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/DownholeSPAndPSControl.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/Genclock.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/PtoSControl.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/UlChannelDataControl.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/McBSPDriver_16bTo8b.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/UlRAMWrControl.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/encoder_8bTo10b.v" \
+"../../../../BusControlBoard_top.srcs/sources_1/new/TopModule.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/DownholeSPAndPSControl_tb.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/Genclock_tb.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/PtoSControl_tb.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/StoPControl_tb.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/edge_detect_tb.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/sync_detect_tb.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/McBSPDriver_16bTo8b_tb.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/UlRAMWrControl_tb.v" \
+"../../../../BusControlBoard_top.srcs/sim_1/new/TopModule_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
